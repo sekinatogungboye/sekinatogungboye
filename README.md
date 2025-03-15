@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sekinatogungboye
+# 👋 Hi, I’m Sekinat
 - 🚀 **Aspiring Frontend Developer | Tech Enthusiast
 - 👀 I’m enthusiastic about **technology, innovation and content creation**.
 - ## 💡 About Me  
